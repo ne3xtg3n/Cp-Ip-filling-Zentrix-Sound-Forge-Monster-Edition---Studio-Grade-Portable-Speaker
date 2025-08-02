@@ -1,3 +1,4 @@
+![1000015815](https://github.com/user-attachments/assets/356f8f53-8a93-4cc8-ad4f-c3249571481d)
 
 # Cp-Ip-filling-Zentrix-Sound-Forge-Monster-Edition---Studio-Grade-Portable-Speaker
 
