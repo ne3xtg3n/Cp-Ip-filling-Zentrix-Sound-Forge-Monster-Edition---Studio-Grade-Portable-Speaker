@@ -1,3 +1,4 @@
+
 # Cp-Ip-filling-Zentrix-Sound-Forge-Monster-Edition---Studio-Grade-Portable-Speaker
 
 Speaker GitHub Description: The Zentrix Sound Forge: Monster Edition is a professional-grade portable speaker engineered for studio-quality sound on the go. This compact unit features a hexagonal chassis with an integrated 7" OLED touchscreen and a powerful 6-driver + 2-passive radiator acoustic array. Powered by DFOP 
