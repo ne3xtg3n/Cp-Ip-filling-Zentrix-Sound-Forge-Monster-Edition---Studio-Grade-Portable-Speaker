@@ -1005,9 +1005,7 @@ The manufacturing of the Monster Edition is a highly precise and complex process
 ![1000016276](https://github.com/user-attachments/assets/db7bde6c-8dc5-469b-bcfe-2efe380a4fa3)
 
 
- * FIG. 4: Wiring Pinout Diagram
-
-![1000016279](https://github.com/user-attachments/assets/d65b9860-65cb-436a-afe6-0335e6e38380)
+ * FIG. 4: Wiring diagram 
 
 ![1000016281](https://github.com/user-attachments/assets/dcbc4c5a-5918-47db-818d-f5f354b2306d)
 ![1000016282](https://github.com/user-attachments/assets/d8f65199-5395-45e5-be5a-b123ec79a190)
